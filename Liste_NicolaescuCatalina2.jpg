@@ -1,0 +1,24 @@
+<html>
+    <head>
+    <title> HTML </title>
+   
+    </head>
+    <body bgcolor="pink" topmargin="5%" leftmargin="5%" rightmargin="5%">
+        <font color="white"> <h1><center>Discipline <h4>clasa a 12-a</h4></center></h1> </font>
+        <ol type="1">
+             <font color="black"> <h3><center> Curpins: </center> </h3> </font>
+            <li> Româna</li>
+			<li> Matematica</li>
+            <li> Limba engleza</li>
+            <li> Istoria</li>
+            <li> Chimia</li>
+            <li> Biologia</li>
+			<li> Ed.civica</li>
+			<li> Ed.fizica</li>
+			<li> Informatica</li>
+			<li> Geografia</li>
+			<li> Fizica</li>
+			<li> Dezvoltare personala</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+    <head>
+    <title> HTML </title>
+   
+    </head>
+    <body bgcolor="red" topmargin="5%" leftmargin="5%" rightmargin="5%">
+        <font color="white"> <h1><center> Cartea <h4>“O domnie intrerupta” de Corneliu Caposu </h4></center></h1> </font>
+        <ol type="1">
+             <font color="black"> <h3><center> Curpins: </center> </h3> </font>
+            <li> Regele copil</li>
+            <li> Detronat de tatal sau </li>
+            <li> Un rege ostatic</li>
+            <li> Puterea comunista: de la rezistenta la surghiun</li>
+            <li> Asprimea exilului</li>
+            <li> O revolutie sub control</li>
+			<li> O coroana de redobandit</li>
+        </ol>
+    </body>
+</html>
